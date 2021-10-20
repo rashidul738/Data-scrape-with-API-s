@@ -1,0 +1,1 @@
+WebScrapingAPI handles everything for you. Easiest way to do web scraping. We take care of JavaScript rendering, proxies, CAPTCHAs, headless browsers and many more. 27-7 Customer Service. 82% Increase in Speed. Global Geolocation.
